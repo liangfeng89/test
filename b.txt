@@ -1,1 +1,1 @@
-this is b.txt send to git
+this is b.txt send to git open in git i love git 
