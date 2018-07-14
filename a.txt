@@ -6,3 +6,4 @@ reset
 diff and diff cache
 a
 b
+c
