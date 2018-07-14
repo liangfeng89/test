@@ -4,3 +4,5 @@ show git diff action 测试 git 中文是不是乱码
 现输出
 reset
 diff and diff cache
+a
+b
