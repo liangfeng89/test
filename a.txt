@@ -1,1 +1,4 @@
-this is a.txt send send  modify 20171114 11:00 
+this is a.txt send send(s?)  modify 20171114 11:00 
+show git diff action 测试 git 中文是不是乱码 
+测试 git add操作后 git diff
+现输出
