@@ -7,3 +7,4 @@ diff and diff cache
 a
 b
 c
+git is manage modify ?
